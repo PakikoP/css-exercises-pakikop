@@ -1,0 +1,15 @@
+.red,.blue{
+    font-size: medium;
+    font-family: Helvetica, sans-serif, "Times New Roman";
+    text-align: center;
+}
+
+.red{
+    background-color: #ff0000f3;
+    color: #ffffff;
+}
+
+.blue {
+    background-color: #0091ff;
+    color: #000000;
+}
